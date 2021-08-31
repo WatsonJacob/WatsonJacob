@@ -1,0 +1,14 @@
+<br> Points are now back to 100% if corrected. <br>
+<br> Mr (Dr?) Desjardins has a code editor he can use to interface with your files that's pretty handy. <br>
+<br> Repositories are basically online directories that can sync. <br>
+<br> Git is the Version Control System. <br>
+<br> Look up Valve code review to remind yourself of why this is important. <br>
+<br> Linux man himself - Linus Torvalds made this. <br>
+<br> Git is distributed (think decentralized) - lots of advantages to this approach. Check slides for specifics. <br>
+<br> Branching: People can split off of a baseline to make changes as they please and then initiate a pull request to have it merged with the baseline (main) to become the new main. Important for stability<br>
+<br> I think this is why there was such an emphasis on low coupling and high cohesion in 1260. Makes this far easier. <br>
+<br> Dev branch is the trenches while main is the gold standard. <br>
+<br> Commits are changed made when finalized. <br>
+<br> Check diagram in slides if you get confused at any point on the branch - pull dynamic. <br>
+<br> Don't close feedback ever. <br>
+<br> Review notes from Data Structures to make diving back into C# easier. <br>
